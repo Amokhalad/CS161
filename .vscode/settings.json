@@ -1,0 +1,20 @@
+{
+  "cSpell.words": [
+    "ciphertext",
+    "CMAC",
+    "Cryptosystems",
+    "EMAC",
+    "fgets",
+    "fread",
+    "Kerckhoff's",
+    "libc",
+    "memcpy",
+    "Preimage",
+    "ROPs",
+    "shellcode",
+    "unkeyed"
+  ],
+  "cSpell.enableFiletypes": [
+    "bat"
+  ]
+}
